@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class URI1052 {
+public class BEE1052 {
 	public static void main(String args[]){
 		Scanner teclado = new Scanner(System.in);
 		int valor = teclado.nextInt();

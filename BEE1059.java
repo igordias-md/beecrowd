@@ -1,4 +1,4 @@
-public class URI1059{
+public class BEE1059{
 	public static void main(String args[]){
 		int numerosPares=2;
 
